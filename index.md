@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# SpaceDogXR
 
-You can use the [editor on GitHub](https://github.com/spacedogxr/spacedogxr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SpaceDogXR is an indie game dev studio that focuses on Virtual and Augmented Reality (XR) experiences. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Games
 
-### Markdown
+### Cup Pong AR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Play beer pong by yourself or with friends using Augmented Reality!
 
-```markdown
-Syntax highlighted code block
+In Single Player mode, you can progress through a variety of different levels, with the shots getting harder each time. 
 
-# Header 1
-## Header 2
-### Header 3
+<b>Play with Friends</b>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Multiplayer is cross-platform! Play against friends on Android or iOS!
 
-**Bold** and _Italic_ and `Code` text
+With Local Multiplayer mode, you can play against a friend who is in the same physical room as you. This mode uses augmented reality to render the same, shared digital pong table for both players.
 
-[Link](url) and ![Image](src)
-```
+With Online Multiplayer mode, you can play against a friend, wherever they may be! Each player has their own digital pong table, so the players do not need to be in the same physical room.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<b> Custom Skins </b>
 
-### Jekyll Themes
+Customize your look! Unlock new appearances for the pong balls and pong tables, and use those appearances when you play against your friends!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spacedogxr/spacedogxr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Support
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having issues with Cup Pong AR? Send us an email at support@spacedogxr.com
