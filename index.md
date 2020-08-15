@@ -6,6 +6,8 @@ SpaceDogXR is an indie game dev studio that focuses on Virtual and Augmented Rea
 
 ### Cup Pong AR
 
+![](/192_192_cup_pong_logo.png)
+
 Play beer pong by yourself or with friends using Augmented Reality!
 
 In Single Player mode, you can progress through a variety of different levels, with the shots getting harder each time. 
