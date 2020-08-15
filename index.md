@@ -1,10 +1,6 @@
-# SpaceDogXR
+# Games
 
-SpaceDogXR is an indie game dev studio that focuses on Virtual and Augmented Reality (XR) experiences. 
-
-## Games
-
-### Cup Pong AR
+## Cup Pong AR
 
 ![](/192_192_cup_pong_logo.png)
 
@@ -25,6 +21,6 @@ With Online Multiplayer mode, you can play against a friend, wherever they may b
 
 Customize your look! Unlock new appearances for the pong balls and pong tables, and use those appearances when you play against your friends!
 
-#### Support
+### Support
 
 Having issues with Cup Pong AR? Send us an email at support@spacedogxr.com
