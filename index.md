@@ -28,4 +28,4 @@ Having issues with Cup Pong AR? Send us an email at [support@spacedogxr.com](mai
 
 ### Press Kit
 
-Check out our [press kit](/presskit.md)
+Check out our [press kit](presskit.md)
