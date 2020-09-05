@@ -31,10 +31,11 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 
 ## Videos
 
-{% include youtubePlayer.html id="AJV75_9v4vk" %}
-
 {% include youtubePlayer.html id="Gv3f-yzGEog" %}
 
+{% include youtubePlayer.html id="AJV75_9v4vk" %}
+
+{% include youtubePlayer.html id="V_LFP9xvf-A" %}
 
 ## Images
 TODO
