@@ -24,3 +24,8 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 ### Support
 
 Having issues with Cup Pong AR? Send us an email at [support@spacedogxr.com](mailto:support@spacedogxr.com)
+
+
+### Press Kit
+
+Check out our [press kit](/presskit.md)
