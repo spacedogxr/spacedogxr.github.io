@@ -31,9 +31,9 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 
 ## Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AJV75_9v4vk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtubePlayer.html id="AJV75_9v4vk" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gv3f-yzGEog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtubePlayer.html id="Gv3f-yzGEog" %}
 
 
 ## Images
