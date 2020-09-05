@@ -1,8 +1,10 @@
-# Games
+# Press Kit
 
 ## Cup Pong AR
 
 ![](/192_192_cup_pong_logo.png)
+
+### Description
 
 Play beer pong by yourself or with friends using Augmented Reality!
 
@@ -21,6 +23,27 @@ With Online Multiplayer mode, you can play against a friend, wherever they may b
 
 Customize your look! Unlock new appearances for the pong balls and pong tables, and use those appearances when you play against your friends!
 
-### Support
 
-Having issues with Cup Pong AR? Send us an email at [support@spacedogxr.com](mailto:support@spacedogxr.com)
+### History
+
+<b>Cup Pong AR<b> is Space Dog XR's first augmented reality mobile game. At the beginning of the Covid-19 lockdown, founder Tate Travaglini was looking for a project to keep him busy during the quarantine that incorporated augmented reality (AR). He decided to take up Cup Pong AR as a way for students and friends to play pong together while allowing them to stay socially distanced. Cup Pong AR was released for Android and iOS in September 2020. 
+
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AJV75_9v4vk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gv3f-yzGEog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## Images
+TODO
+
+## GIFs
+TODO
+
+## Logos
+TODO
+
+## Contact
+Send all inquiries to [contact@spacedogxr.com](mailto:contact@spacedogxr.com)
