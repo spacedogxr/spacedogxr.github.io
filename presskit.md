@@ -48,7 +48,14 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 </p>
 
 ## GIFs
-TODO
+<p float="left">
+  <img src="/gifs/LocalMultiplayerGif1.gif" height="300"/>
+  <img src="/gifs/LocalMultiplayerGif2.gif" height="300"/>
+  <img src="/gifs/OnlineMultiplayerGif1.gif" height="300"/>
+  <img src="/gifs/OnlineMultiplayerGif2.gif" height="300"/>
+  <img src="/gifs/SinglePlayerGif1.gif" height="300"/>
+  <img src="/gifs/SinglePlayerGif2.gif" height="300"/>
+</p>
 
 ## Logos
 TODO
