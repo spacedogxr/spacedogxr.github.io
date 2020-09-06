@@ -62,9 +62,9 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
   <img src="/logos/cup_pong_ar_app_icon.jpg"/>
   <img src="/logos/192_192_cup_pong_logo.jpg"/>
   <img src="/logos/logo_1024_text.jpg"/>
-  <img src="/logos/logo_transparent_with_title.jpg"/>
-  <img src="/logos/space_dog_xr_logo_white_bg.jpg"/>
-  <img src="/logos/space_dog_xr_logo.jpg"/>
+  <img src="/logos/logo_transparent_with_title.jpg" height="500" />
+  <img src="/logos/space_dog_xr_logo_white_bg.jpg" height="500" />
+  <img src="/logos/space_dog_xr_logo.jpg" height="500" />
 </p>
 
 ## Contact
