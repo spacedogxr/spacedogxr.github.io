@@ -38,7 +38,7 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 {% include youtubePlayer.html id="V_LFP9xvf-A" %}
 
 ## Images
-![](/App Preview Multiplayer iPad local 1.jpg)
+![](/images/App_Preview_Multiplayer_iPad_local_1.jpg)
 
 ## GIFs
 TODO
