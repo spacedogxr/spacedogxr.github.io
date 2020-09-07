@@ -26,7 +26,12 @@ Customize your look! Unlock new appearances for the pong balls and pong tables, 
 
 ### History
 
-<b>Cup Pong AR</b> is Space Dog XR's first augmented reality mobile game. At the beginning of the Covid-19 lockdown, founder Tate Travaglini was looking for a project to keep him busy during the quarantine that incorporated augmented reality (AR). He decided to take up Cup Pong AR as a way for students and friends to play pong together while allowing them to stay socially distanced. Cup Pong AR was released for Android and iOS in September 2020. 
+Cup Pong AR is Space Dog XR's first augmented reality mobile game. At the beginning of the Covid-19 lockdown, founder Tate Travaglini was looking for a project to keep him busy during the quarantine that incorporated augmented reality (AR). He decided to take up Cup Pong AR as a way for students and friends to play pong together while allowing them to stay socially distanced. Cup Pong AR was released for Android and iOS in September 2020.
+
+
+### Technology
+
+Cup Pong AR is powered by Unity and its AR Foundation library. AR Foundation allows Space Dog XR to more quickly publish our augmented reality game to both Android and iOS. Cup Pong AR's "Local Multiplayer" mode is a compelling use of Google's Cloud Anchor technology; these cloud anchors enable the same table to be rendered for both players in the same physical space. 
 
 
 ## Videos
