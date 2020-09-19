@@ -64,7 +64,8 @@ Cup Pong AR is powered by Unity and its AR Foundation library. AR Foundation all
 
 ## Logos
 <p float="left">
-  <img src="/logos/cup_pong_ar_app_icon.png" height="300" />
+  <img src="/logos/cup_pong_ar_app_icon.png" height="300" alt="Primary logo" />
+  <img src="/logos/1024_1024.png" height="300" alt="iOS alternative logo" />
   <img src="/logos/logo_1024_text.png" height="300" />
   <img src="/logos/logo_transparent_with_title.png" height="500" />
   <img src="/logos/space_dog_xr_logo_white_bg.jpg" height="500" />
