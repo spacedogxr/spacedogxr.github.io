@@ -35,7 +35,7 @@ Cup Pong AR is powered by Unity and its AR Foundation library. AR Foundation all
 
 ## Downloads
 <a href='https://play.google.com/store/apps/details?id=com.spaceDogXR.cupPongARTest&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>
-<a><img src="/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store" height="50"/></a>
+<a href='https://apps.apple.com/us/app/id1524156287'><img src="/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store" height="45"/></a>
 
 ## Videos
 
