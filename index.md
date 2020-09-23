@@ -21,6 +21,10 @@ With Online Multiplayer mode, you can play against a friend, wherever they may b
 
 Customize your look! Unlock new appearances for the pong balls and pong tables, and use those appearances when you play against your friends!
 
+### Downloads
+<a href='https://play.google.com/store/apps/details?id=com.spaceDogXR.cupPongARTest&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>
+<a href='https://apps.apple.com/us/app/id1524156287'><img src="/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store" height="45"/></a>
+
 ### Support
 
 Having issues with Cup Pong AR? Send us an email at [support@spacedogxr.com](mailto:support@spacedogxr.com)
