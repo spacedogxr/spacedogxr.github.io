@@ -4,10 +4,35 @@ title: Fantasy Trophy
 ---
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<style>
+#ar-button {
+    background-image: url(https://modelviewer.dev/assets/ic_view_in_ar_new_googblue_48dp.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 12px 50%;
+    background-color: #fff;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    bottom: 132px;
+    padding: 0px 16px 0px 40px;
+    font-family: Roboto Regular, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    color: #4285f4;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 18px;
+    border: 1px solid #DADCE0;
+}
+</style>
 
 <h1>The League - Fantasy Football Trophy</h1>
 
 <model-viewer src="leaguetrophy.glb" camera-controls ar auto-rotate ios-src="leaguetrophy.usdz" ar-modes="webxr scene-viewer quick-look" exposure="1" style="min-height: 400px;">
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
 </model-viewer>
 
 <p>Inspired by <a href="https://theleague.fandom.com/wiki/The_Shiva_Bowl_Trophy">The Shiva Bowl Trophy</a>. </p>
